@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="9cee8d73-6076-4c61-b170-79b3a36ce4eb" name="spatkar2@classdb2.csc.ncsu.edu [2] Mapping">
+      <data-sources db="02b6ea90-397f-4022-9306-c393d3296075" ddl="19b07920-9a6a-4fad-9fc4-4c612a0d830c" />
+    </mapping>
+    <mapping uuid="9cee8d73-6076-4c61-b170-79b3a36ce4eb" name="spatkar2@classdb2.csc.ncsu.edu [2] Mapping">
+      <data-sources db="02b6ea90-397f-4022-9306-c393d3296075" ddl="19b07920-9a6a-4fad-9fc4-4c612a0d830c" />
+    </mapping>
+  </component>
+</project>
